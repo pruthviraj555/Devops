@@ -1,2 +1,2 @@
 # Devops
-This is repository created for Devops practice
+This repository is created for Devops practice
